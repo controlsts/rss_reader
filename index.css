@@ -1,0 +1,11 @@
+body .-group.-view {
+  width: 420px;
+  height: 200px;
+}
+body .-group.-view .-list-item {
+  width: 420px;
+  height: 40px;
+}
+body .-group.-view .-list-item.-afd-leaf {
+  font-weight: bold;
+}
